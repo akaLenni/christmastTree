@@ -8,4 +8,4 @@ gcc -std=c89 -pedantic -Wall -Wextra -o <fileName> <fileName>.c
 gcc -std=c89 -pedantic -Wall -Werror  -Wextra -o <fileName> <fileName>.c
 
 ## DISCLAIMER: 
-### Code compiles and works, I do not guarantee that it will run efficent and is clean. Please also do not copy it as solution. Please at least change names of functions and variables. :D
+### Code compiles and works, I do not guarantee that it will run efficent and is clean. It is not yet ANSI C conform. Please also do not copy it as solution. Please at least change names of functions and variables. :D
